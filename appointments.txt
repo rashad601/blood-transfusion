@@ -1,0 +1,5 @@
+-------------------------------------------------------------------
+Recipient: <Recipient Name>    Blood Type: <Recipient’s Blood Type>
+Donor: <Donor Name>            Blood Type: <Donor’s Blood Type>
+Date: <Date of Appointment>
+-------------------------------------------------------------------
